@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/xibn" target="blank">
+  <a href="https://github.com/x-ibn" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="xibn" height="30" width="40" />
   </a>
-  <a href="https://t.me/yourtelegram" target="blank">
+  <a href="https://t.me/@kingalkhattab" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" width="40" />
   </a>
 </p>
