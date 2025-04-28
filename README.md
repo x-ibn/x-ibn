@@ -9,7 +9,7 @@
 
 - 🔭 Lagi asik ngerjain project auto-automation, security, dan skrip kilat.
 - 🌱 Lagi belajar lebih dalam tentang Cybersecurity, Automation, AI tools.
-- 👨‍💻 Semua project aku ada di [GitHub-ku](https://github.com/xibn)
+- 👨‍💻 Semua project aku ada di [...](https://github.com/x-ibn/)
 - ⚡ Fun fact: **Mager, tapi tau cara cepetnya 😎**
 
 ---
