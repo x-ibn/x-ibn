@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm xibn</h1>
+<h3 align="center">Mager Tapi Kepo di Internet</h3>
 
-<!--
-**x-ibn/x-ibn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xibn&show_icons=true&theme=tokyonight" alt="xibn" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Lagi asik ngerjain project auto-automation, security, dan skrip kilat.
+- 🌱 Lagi belajar lebih dalam tentang Cybersecurity, Automation, AI tools.
+- 👨‍💻 Semua project aku ada di [GitHub-ku](https://github.com/xibn)
+- ⚡ Fun fact: **Mager, tapi tau cara cepetnya 😎**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/xibn" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="xibn" height="30" width="40" />
+  </a>
+  <a href="https://t.me/yourtelegram" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
