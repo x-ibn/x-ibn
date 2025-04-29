@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xibn/xibn/main/assets/Rabbit-x-Ibn.png" width="80%" alt="xibn banner"/>
+  <img src="https://github.com/x-ibn/x-ibn/blob/main/Rabbit-x-Ibn.png" width="80%" alt="xibn banner"/>
 </p>
 
 <h2 align="center">Mager Tapi Kepo di Internet</h2>
