@@ -14,7 +14,7 @@
 - 🧠 **Lagi asik ngulik**: automation, skrip cepat, & hal-hal "dark but clean".
 - 🥂 **Belajar**: Cybersecurity, OSINT, AI tools, Ethical Hacking.
 - 🔍 **Ngulik**: Open-source + bikin sistem jalan sendiri.
-- 🪪 Semua project bisa lo intip di [GitHub ini](https://github.com/xibn)
+- 🪪 Semua project bisa intip di [GitHub ini](https://github.com/xibn)
 - ⚡ **Fun Fact**: _Mager, tapi tau cara cepetnya_ 😎
 
 ---
