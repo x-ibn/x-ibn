@@ -22,8 +22,6 @@
 
 ### 🚀 Featured Projects
 - [🔒 Auto Phishing Reporter](https://github.com/x-ibn/phishing-scanner.git) – Automasi lapor URL phishing ke berbagai platform.
-- [🕵️‍♂️ Blackhat SEO Toolkit](https://github.com/x-ibn/blackhat-seo-toolkit) – Eksperimen SEO abuse untuk edukasi & riset.
-- [🤖 Auto Remove Google Cache](https://github.com/x-ibn/selenium_report_google) – Otomatisasi submit request Google outdated content.
 
 ---
 
