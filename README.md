@@ -21,19 +21,17 @@
 - 🧠 **Lagi asik ngulik:** automation, skrip cepat, & hal-hal "dark but clean".
 - 📚 **Belajar:** Cybersecurity, OSINT, AI tools, Ethical Hacking.
 - 🔧 **Ngulik:** Open-source + bikin sistem jalan sendiri.
-- 🧭 Semua project bisa lo intip di [GitHub ini](https://github.com/x-ibn)
+- 🧭 Semua project bisa intip di [GitHub ini](https://github.com/x-ibn)
 - ⚡ **Fun Fact:** *Mager, tapi tau cara cepetnya* 😎
 
 ---
 
 ### 🛠️ Tools & Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
 
 ---
 
