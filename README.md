@@ -51,4 +51,4 @@
 
 ---
 
-> "📌 Konsistensi itu niat. Tapi rebahan dulu bentar nggak dosa 😴"
+> "📌 Konsistensi itu niat. rebahan dulu bentar, bergerak langsung ulti🐰"
